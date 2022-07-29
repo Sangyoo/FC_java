@@ -1,0 +1,36 @@
+package ch14;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+public class FIleInputStreamTest1 {
+
+	public static void main(String[] args) {
+		FileInputStream fis = null;
+		try {
+			fis = new FileInputStream("input.txt");
+			System.out.println((char) fis.read());
+			System.out.println((char) fis.read());
+			System.out.println((char) fis.read());
+		} catch (IOException e) {//FileInputStream 상황에 대한 exception
+			e.printStackTrace();
+			try {
+				fis.close();
+			} catch (IOException e1) {//close 상황에 대한 exception
+				e1.printStackTrace();
+			} catch (Exception e2) {//null 상황에 대한 exception
+				System.out.println(e2);
+			}
+		} finally {
+			try {
+				fis.close();
+			} catch (IOException e) {//close 상황에 대한 exception
+				e.printStackTrace();
+			} catch (Exception e2) {//null 상황에 대한 exception
+				System.out.println(e2);
+			}
+		}
+		System.out.println("end");
+	}
+
+}

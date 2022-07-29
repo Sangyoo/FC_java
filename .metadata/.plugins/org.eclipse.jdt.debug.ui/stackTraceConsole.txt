@@ -1,0 +1,7 @@
+try {
+			test.setPassword(password);
+			System.out.println("오류없음1");
+		} catch (PassWordException e) {
+			System.out.println(e.getMessage());
+		}
+sd

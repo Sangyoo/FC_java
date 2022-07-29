@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ch09.ComputerTest"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.UserInfo"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.UserInfoDao"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.oracle.UserInfoOracleDao"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.mysql.UserInfoMySqlDao"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="ch02.MyArray"/>
+    <fullyQualifiedTypeName name="ch04.MyArrayStack"/>
+    <fullyQualifiedTypeName name="ch03.MyLinkedList"/>
+    <fullyQualifiedTypeName name="ch03.MyListNode"/>
+    <fullyQualifiedTypeName name="ch06.GenericPrinter"/>
+    <fullyQualifiedTypeName name="ch06.Powder"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="ch14.Member"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InStaticClass"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="ch08.TravelCustomer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch13.SystemTest11"/>
+    <fullyQualifiedTypeName name="ch14.FileOutputStreamTest1"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+</qualifiedTypeNameHistroy>
