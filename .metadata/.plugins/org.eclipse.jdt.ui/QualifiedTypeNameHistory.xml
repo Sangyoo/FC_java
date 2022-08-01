@@ -28,7 +28,6 @@
     <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
     <fullyQualifiedTypeName name="ch08.TravelCustomer"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ch13.SystemTest11"/>
     <fullyQualifiedTypeName name="ch14.FileOutputStreamTest1"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
@@ -40,4 +39,16 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
     <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="ch19.EtiopiaAmericano"/>
+    <fullyQualifiedTypeName name="ch19.KenyaAmericano"/>
+    <fullyQualifiedTypeName name="ch20.MyThread"/>
+    <fullyQualifiedTypeName name="ch21.JoinTest"/>
+    <fullyQualifiedTypeName name="ch22.SyncMain"/>
+    <fullyQualifiedTypeName name="java.sql.Array"/>
+    <fullyQualifiedTypeName name="ch23.FastLibrary"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="grade.BasicEvaluation"/>
+    <fullyQualifiedTypeName name="grade.GradeEvaluation"/>
+    <fullyQualifiedTypeName name="grade.MajorEvaluation"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
